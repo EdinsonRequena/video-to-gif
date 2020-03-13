@@ -19,3 +19,6 @@ def gifMaker(inputPath, targetFormat):
 
 	print("Oh yeah!!!")
 	writer.close()
+	
+if __name__ == '__main__':
+	gifMaker()
